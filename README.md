@@ -11,11 +11,7 @@
 
 I like the two ends of the stack: compilers and operating systems on one side, retrieval and vision pipelines on the other. Most of my projects run entirely offline — I'd rather own the whole pipeline than rent an API for it.
 
-- 🔭 Currently: AI-powered steganography & steganalysis framework, urban heat risk mapping from satellite imagery
 - 🌱 Learning: Rust for systems work, multi-agent evaluation
-- 💼 Previously: AI/ML intern at Tata Consulting Engineers — CV-based P&ID detection, RAG pipelines
-- 📸 Editor-in-Chief, Photo Circle–RAIT
-
 ---
 
 ### Selected work
