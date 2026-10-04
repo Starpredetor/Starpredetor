@@ -5,10 +5,6 @@
   I build low-level systems and local-first AI tooling.
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/Starpredetor"><img src="https://img.shields.io/badge/X-@Starpredetor-000?style=flat-square&logo=x"></a>
-</p>
-
 ---
 
 ### What I'm about
