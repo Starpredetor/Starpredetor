@@ -20,6 +20,7 @@ I like the two ends of the stack: compilers and operating systems on one side, r
 |---|---|---|
 | [**docparse**](https://github.com/Starpredetor/docparse) | Fully local multimodal RAG for PDFs, DOCX and images — OCR, image captioning, sentence embeddings, no cloud calls | Rust |
 | [**StarOS**](https://github.com/Starpredetor/StarOS) | A custom operating system written from scratch | C |
+| [**vox-core**](https://github.com/Starpredetor/vox-core) | vox-core is a lightweight, high-performance offline speech-to-text pipeline written in Rust. | Rust |
 | [**offline_speech_recognition**](https://github.com/Starpredetor/offline_speech_recognition) | Real-time transcription and translation with zero cloud dependency | Python |
 | [**discord-mcp-bot**](https://github.com/Starpredetor/discord-mcp-bot) | Modular Discord bot on a custom MCP backend for policy-driven automation | Python |
 | [**placement_cell_dashboard**](https://github.com/Starpredetor/placement_cell_dashboard) | Official CRT attendance dashboard for TPC RAIT, in production | Django |
